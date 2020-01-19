@@ -1,4 +1,4 @@
-class Song 
+class Backer
   attr_accessor :name, :artist 
   @@all = []
   
